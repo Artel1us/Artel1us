@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artel1us
-- 👀 I’m interested in AI , IOT , Web Development
+- 👀 I’m interested in AI , IOT , Web/App Development
 - 🌱 I’m currently learning Javascript, Python, C++, Bash
 - 💞️ I’m looking to collaborate on FOSS
 - 📫 How to reach me send email to : achmadpanjaluu@gmail.com
